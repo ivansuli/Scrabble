@@ -1,0 +1,12 @@
+Las reglas son:
+1. La primera ficha siempre va a empezar en el medio, sin importar cual sea. 
+2. Hay duplicadores y triplicadores de letras como tambien de palabras, las cuales son:
+	a. 2L: Si tu ficha cae en esta posicion, el valor de tu letra sera duplicado.
+	b. 3L: Si tu ficha cae en esta posicion, el valor de tu letra sera triplicado.
+	c. 2P: Si alguna de tus fichas cae en esta posicion, el valor de la palabra que formes sera duplicado.
+	d. 3P: Si alguna de tus fichas cae en esta posicion, el valor de la palabra que formes sera triplicado.
+3. Si alguno de los jugadores decide rendirse, ganara el jugador que no se haya rendido, sin importar los puntos que hayan acumulando.
+4. Si se pasa turno 2 veces, el juego termina.
+5. El juego se encargara de que la palabra que escribio exista, asi que trate de poner siempre palabras correctas.
+6. Esta obligado a poner minimo 2 fichas en el tablero.
+7. El juego formara tambien palabras con fichas que anteriormente se hayan colocado, asi que cuidado donde coloca las fichas.
